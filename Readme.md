@@ -14,11 +14,6 @@ Consiste en crear un controlador de Entrada/Salida para una DUART utilizando el 
 La publicación de nuestro proyecto tiene como objetivo *dar a los futuros estudiantes las guías que hemos echado en falta a la hora de realizar el trabajo*. 
 > En caso de copia del proyecto saltará el sistema de copias.
 
-- Calificación del proyecto
-
-<img src="https://user-images.githubusercontent.com/74014545/183302730-742d07aa-06ed-4ab4-95bd-3b871a0789ae.png" width="350" height="150"/>
-
-
 ## Descripción
 
 Toda la información del proyecto se encuentra en la [documentación](https://github.com/alvarocabo/UPM/blob/main/Proyecto%20Arquitectura/doc/manual%2068000.pdf) proporcionada para este por parte de la universidad.
